@@ -1,5 +1,5 @@
-  <h1>Meu primeiro site</h1>
-  <h1></h1>My-first-website</h1>
+<h1>Meu primeiro site/My first website</h1> 
+
 
 <h3>PT-BR</h3>
   <p>Olá meu nome é Eduardo de Lima Rodrigues (me chamem apenas de Lima para ser mais fácil) Este foi o meu primeiro site estático. Sim, estático, eu ainda não iniciei os estudos no JavaScript então o site é apenas uma folha de papel sem nenhuma animação ou agora que a linguagem do javascript faz.</p>
